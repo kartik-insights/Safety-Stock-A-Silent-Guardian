@@ -1,4 +1,4 @@
-# Lead_Time-in-SCM
+# A Silent Guardian in SCM
 
 # 📦 Cracking the Code: How Safety Stock Eliminates Supply Chain Delays
 
